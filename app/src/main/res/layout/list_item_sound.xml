@@ -4,5 +4,6 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="120dp"
-        tool:text="Sound name"/>
+        tool:text="Sound name"
+        android:layout_margin="8dp"/>
 </layout>
